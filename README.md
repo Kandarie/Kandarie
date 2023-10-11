@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kandarie
 - 👀 I’m interested in automation and scripting.
 - 🌱 I’m currently learning Python, T-SQL, Powershell, and Golang.
-- 💞️ I also use JSON, XML, YAML, .csv, .bat, 
+- 💞️ I also use JSON, XML, YAML, .csv, .bat, plus others
 - 📫 Reach me KandarieTheBeast (at outlook dot com)
 
 <!---
